@@ -1,6 +1,6 @@
 from textblob import TextBlob
 
-testimonial = TextBlob("go to fucking hell you bitch")
+testimonial = TextBlob("enter text here")
 
 
 print(testimonial.sentiment)
