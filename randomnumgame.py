@@ -4,7 +4,6 @@ import random
 
 number = random.randrange(1,11) 
 
-print(number)
 
 print("Guess the number. You'll get 5 tries.\nEnter a number from 1-10: ")
 
